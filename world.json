@@ -1,0 +1,822 @@
+[
+  {
+    "name": "world",
+    "parent": ""
+  },
+  {
+    "name": "africa",
+    "parent": "world"
+  },
+  {
+    "name": "asia",
+    "parent": "world"
+  },
+  {
+    "name": "antarctica",
+    "parent": "world"
+  },
+  {
+    "name": "australia-and-oceania",
+    "parent": "world"
+  },
+  {
+    "name": "europe",
+    "parent": "world"
+  },
+  {
+    "name": "north-america",
+    "parent": "world"
+  },
+  {
+    "name": "south-america",
+    "parent": "world"
+  },
+  {
+    "name": "algeria",
+    "parent": "africa"
+  },
+  {
+    "name": "angola",
+    "parent": "africa"
+  },
+  {
+    "name": "benin",
+    "parent": "africa"
+  },
+  {
+    "name": "botswana",
+    "parent": "africa"
+  },
+  {
+    "name": "burkina-faso",
+    "parent": "africa"
+  },
+  {
+    "name": "burundi",
+    "parent": "africa"
+  },
+  {
+    "name": "cameroon",
+    "parent": "africa"
+  },
+  {
+    "name": "cape-verde",
+    "parent": "africa"
+  },
+  {
+    "name": "central-african-republic",
+    "parent": "africa"
+  },
+  {
+    "name": "chad",
+    "parent": "africa"
+  },
+  {
+    "name": "comoros",
+    "parent": "africa"
+  },
+  {
+    "name": "democratic-republic-of-congo",
+    "parent": "africa"
+  },
+  {
+    "name": "cote-d-ivoire",
+    "parent": "africa"
+  },
+  {
+    "name": "djibouti",
+    "parent": "africa"
+  },
+  {
+    "name": "egypt",
+    "parent": "africa"
+  },
+  {
+    "name": "equatorial Guinea",
+    "parent": "africa"
+  },
+  {
+    "name": "eritrea",
+    "parent": "africa"
+  },
+  {
+    "name": "ethiopia",
+    "parent": "africa"
+  },
+  {
+    "name": "gabon",
+    "parent": "africa"
+  },
+  {
+    "name": "gambia",
+    "parent": "africa"
+  },
+  {
+    "name": "ghana",
+    "parent": "africa"
+  },
+  {
+    "name": "guinea",
+    "parent": "africa"
+  },
+  {
+    "name": "guinea-bissau",
+    "parent": "africa"
+  },
+  {
+    "name": "kenya",
+    "parent": "africa"
+  },
+  {
+    "name": "lesotho",
+    "parent": "africa"
+  },
+  {
+    "name": "liberia",
+    "parent": "africa"
+  },
+  {
+    "name": "libya",
+    "parent": "africa"
+  },
+  {
+    "name": "madagascar",
+    "parent": "africa"
+  },
+  {
+    "name": "malawi",
+    "parent": "africa"
+  },
+  {
+    "name": "mali",
+    "parent": "africa"
+  },
+  {
+    "name": "mauritania",
+    "parent": "africa"
+  },
+  {
+    "name": "mauritius",
+    "parent": "africa"
+  },
+  {
+    "name": "morocco",
+    "parent": "africa"
+  },
+  {
+    "name": "mozambique",
+    "parent": "africa"
+  },
+  {
+    "name": "namibia",
+    "parent": "africa"
+  },
+  {
+    "name": "niger",
+    "parent": "africa"
+  },
+  {
+    "name": "nigeria",
+    "parent": "africa"
+  },
+  {
+    "name": "rwanda",
+    "parent": "africa"
+  },
+  {
+    "name": "sao-tome-&-principe",
+    "parent": "africa"
+  },
+  {
+    "name": "senegal",
+    "parent": "africa"
+  },
+  {
+    "name": "seychelles",
+    "parent": "africa"
+  },
+  {
+    "name": "sierra-leone",
+    "parent": "africa"
+  },
+  {
+    "name": "somalia",
+    "parent": "africa"
+  },
+  {
+    "name": "south-africa",
+    "parent": "africa"
+  },
+  {
+    "name": "south-sudan",
+    "parent": "africa"
+  },
+  {
+    "name": "sudan",
+    "parent": "africa"
+  },
+  {
+    "name": "swaziland",
+    "parent": "africa"
+  },
+  {
+    "name": "tanzania",
+    "parent": "africa"
+  },
+  {
+    "name": "togo",
+    "parent": "africa"
+  },
+  {
+    "name": "tunisia",
+    "parent": "africa"
+  },
+  {
+    "name": "Uganda",
+    "parent": "africa"
+  },
+  {
+    "name": "Zambia",
+    "parent": "africa"
+  },
+  {
+    "name": "Zimbabwe",
+    "parent": "africa"
+  },
+  {
+    "name": "afghanistan",
+    "parent": "asia"
+  },
+  {
+    "name": "bahrain",
+    "parent": "asia"
+  },
+  {
+    "name": "bangladesh",
+    "parent": "asia"
+  },
+  {
+    "name": "bhutan",
+    "parent": "asia"
+  },
+  {
+    "name": "brunei",
+    "parent": "asia"
+  },
+  {
+    "name": "cambodia",
+    "parent": "asia"
+  },
+  {
+    "name": "china",
+    "parent": "asia"
+  },
+  {
+    "name": "east-timor",
+    "parent": "asia"
+  },
+  {
+    "name": "india",
+    "parent": "asia"
+  },
+  {
+    "name": "indonesia",
+    "parent": "asia"
+  },
+  {
+    "name": "iran",
+    "parent": "asia"
+  },
+  {
+    "name": "iraq",
+    "parent": "asia"
+  },
+  {
+    "name": "israel",
+    "parent": "asia"
+  },
+  {
+    "name": "japan",
+    "parent": "asia"
+  },
+  {
+    "name": "jordan",
+    "parent": "asia"
+  },
+  {
+    "name": "kazakhstan",
+    "parent": "asia"
+  },
+  {
+    "name": "north-korea",
+    "parent": "asia"
+  },
+  {
+    "name": "south-korea",
+    "parent": "asia"
+  },
+  {
+    "name": "kuwait",
+    "parent": "asia"
+  },
+  {
+    "name": "kyrgyzstan",
+    "parent": "asia"
+  },
+  {
+    "name": "laos",
+    "parent": "asia"
+  },
+  {
+    "name": "lebanon",
+    "parent": "asia"
+  },
+  {
+    "name": "malaysia",
+    "parent": "asia"
+  },
+  {
+    "name": "maldives",
+    "parent": "asia"
+  },
+  {
+    "name": "mongolia",
+    "parent": "asia"
+  },
+  {
+    "name": "myanmar",
+    "parent": "asia"
+  },
+  {
+    "name": "nepal",
+    "parent": "asia"
+  },
+  {
+    "name": "oman",
+    "parent": "asia"
+  },
+  {
+    "name": "pakistan",
+    "parent": "asia"
+  },
+  {
+    "name": "the-philippines",
+    "parent": "asia"
+  },
+  {
+    "name": "qatar",
+    "parent": "asia"
+  },
+  {
+    "name": "russia",
+    "parent": "asia"
+  },
+  {
+    "name": "saudi-arabia",
+    "parent": "asia"
+  },
+  {
+    "name": "singapore",
+    "parent": "asia"
+  },
+  {
+    "name": "sri-lanka",
+    "parent": "asia"
+  },
+  {
+    "name": "syria",
+    "parent": "asia"
+  },
+  {
+    "name": "taiwan",
+    "parent": "asia"
+  },
+  {
+    "name": "tajikistan",
+    "parent": "asia"
+  },
+  {
+    "name": "thailand",
+    "parent": "asia"
+  },
+  {
+    "name": "turkey",
+    "parent": "asia"
+  },
+  {
+    "name": "turkmenistan",
+    "parent": "asia"
+  },
+  {
+    "name": "united-arab-emirates",
+    "parent": "asia"
+  },
+  {
+    "name": "uzbekistan",
+    "parent": "asia"
+  },
+  {
+    "name": "vietnam",
+    "parent": "asia"
+  },
+  {
+    "name": "yemen",
+    "parent": "asia"
+  },
+  {
+    "name": "australia",
+    "parent": "australia-and-oceania"
+  },
+  {
+    "name": "fiji",
+    "parent": "australia-and-oceania"
+  },
+  {
+    "name": "kiribati",
+    "parent": "australia-and-oceania"
+  },
+  {
+    "name": "marshall-islands",
+    "parent": "australia-and-oceania"
+  },
+  {
+    "name": "micronesia",
+    "parent": "australia-and-oceania"
+  },
+  {
+    "name": "samoa",
+    "parent": "australia-and-oceania"
+  },
+  {
+    "name": "solomon-islands",
+    "parent": "australia-and-oceania"
+  },
+  {
+    "name": "nauru",
+    "parent": "australia-and-oceania"
+  },
+  {
+    "name": "new-zealand",
+    "parent": "australia-and-oceania"
+  },
+  {
+    "name": "palau",
+    "parent": "australia-and-oceania"
+  },
+  {
+    "name": "papua-new-guinea",
+    "parent": "australia-and-oceania"
+  },
+  {
+    "name": "tonga",
+    "parent": "australia-and-oceania"
+  },
+  {
+    "name": "tuvalu",
+    "parent": "australia-and-oceania"
+  },
+  {
+    "name": "vanuatu",
+    "parent": "australia-and-oceania"
+  },
+  {
+    "name": "albania",
+    "parent": "europe"
+  },
+  {
+    "name": "andorra",
+    "parent": "europe"
+  },
+  {
+    "name": "armenia",
+    "parent": "europe"
+  },
+  {
+    "name": "austria",
+    "parent": "europe"
+  },
+  {
+    "name": "azerbaijan",
+    "parent": "europe"
+  },
+  {
+    "name": "belarus",
+    "parent": "europe"
+  },
+  {
+    "name": "belgium",
+    "parent": "europe"
+  },
+  {
+    "name": "bosnia-&-herzegovina",
+    "parent": "europe"
+  },
+  {
+    "name": "bulgaria",
+    "parent": "europe"
+  },
+  {
+    "name": "croatia",
+    "parent": "europe"
+  },
+  {
+    "name": "cyprus",
+    "parent": "europe"
+  },
+  {
+    "name": "czech-republic",
+    "parent": "europe"
+  },
+  {
+    "name": "denmark",
+    "parent": "europe"
+  },
+  {
+    "name": "estonia",
+    "parent": "europe"
+  },
+  {
+    "name": "finland",
+    "parent": "europe"
+  },
+  {
+    "name": "france",
+    "parent": "europe"
+  },
+  {
+    "name": "georgia",
+    "parent": "europe"
+  },
+  {
+    "name": "germany",
+    "parent": "europe"
+  },
+  {
+    "name": "greece",
+    "parent": "europe"
+  },
+  {
+    "name": "hungary",
+    "parent": "europe"
+  },
+  {
+    "name": "iceland",
+    "parent": "europe"
+  },
+  {
+    "name": "ireland",
+    "parent": "europe"
+  },
+  {
+    "name": "italy",
+    "parent": "europe"
+  },
+  {
+    "name": "kosovo",
+    "parent": "europe"
+  },
+  {
+    "name": "latvia",
+    "parent": "europe"
+  },
+  {
+    "name": "liechtenstein",
+    "parent": "europe"
+  },
+  {
+    "name": "lithuania",
+    "parent": "europe"
+  },
+  {
+    "name": "luxembourg",
+    "parent": "europe"
+  },
+  {
+    "name": "macedonia",
+    "parent": "europe"
+  },
+  {
+    "name": "malta",
+    "parent": "europe"
+  },
+  {
+    "name": "moldova",
+    "parent": "europe"
+  },
+  {
+    "name": "monaco",
+    "parent": "europe"
+  },
+  {
+    "name": "montenegro",
+    "parent": "europe"
+  },
+  {
+    "name": "the-netherlands",
+    "parent": "europe"
+  },
+  {
+    "name": "norway",
+    "parent": "europe"
+  },
+  {
+    "name": "poland",
+    "parent": "europe"
+  },
+  {
+    "name": "portugal",
+    "parent": "europe"
+  },
+  {
+    "name": "romania",
+    "parent": "europe"
+  },
+  {
+    "name": "russia",
+    "parent": "europe"
+  },
+  {
+    "name": "san-marino",
+    "parent": "europe"
+  },
+  {
+    "name": "serbia",
+    "parent": "europe"
+  },
+  {
+    "name": "slovakia",
+    "parent": "europe"
+  },
+  {
+    "name": "slovenia",
+    "parent": "europe"
+  },
+  {
+    "name": "spain",
+    "parent": "europe"
+  },
+  {
+    "name": "sweden",
+    "parent": "europe"
+  },
+  {
+    "name": "switzerland",
+    "parent": "europe"
+  },
+  {
+    "name": "turkey",
+    "parent": "europe"
+  },
+  {
+    "name": "ukraine",
+    "parent": "europe"
+  },
+  {
+    "name": "united-kingdom",
+    "parent": "europe"
+  },
+  {
+    "name": "vatican-city",
+    "parent": "europe"
+  },
+  {
+    "name": "antigua-&-barbuda",
+    "parent": "north-america"
+  },
+  {
+    "name": "bahamas",
+    "parent": "north-america"
+  },
+  {
+    "name": "barbados",
+    "parent": "north-america"
+  },
+  {
+    "name": "belize",
+    "parent": "north-america"
+  },
+  {
+    "name": "canada",
+    "parent": "north-america"
+  },
+  {
+    "name": "costa-rica",
+    "parent": "north-america"
+  },
+  {
+    "name": "cuba",
+    "parent": "north-america"
+  },
+  {
+    "name": "dominica",
+    "parent": "north-america"
+  },
+  {
+    "name": "dominican-republic",
+    "parent": "north-america"
+  },
+  {
+    "name": "el-salvador",
+    "parent": "north-america"
+  },
+  {
+    "name": "grenada",
+    "parent": "north-america"
+  },
+  {
+    "name": "guatemala",
+    "parent": "north-america"
+  },
+  {
+    "name": "haiti",
+    "parent": "north-america"
+  },
+  {
+    "name": "honduras",
+    "parent": "north-america"
+  },
+  {
+    "name": "jamaica",
+    "parent": "north-america"
+  },
+  {
+    "name": "mexico",
+    "parent": "north-america"
+  },
+  {
+    "name": "nicaragua",
+    "parent": "north-america"
+  },
+  {
+    "name": "panama",
+    "parent": "north-america"
+  },
+  {
+    "name": "st.-kitts-&-nevis ",
+    "parent": "north-america"
+  },
+  {
+    "name": "st.-lucia",
+    "parent": "north-america"
+  },
+  {
+    "name": "st.-vincent-&-the-grenadines",
+    "parent": "north-america"
+  },
+  {
+    "name": "trinidad-&-tobago",
+    "parent": "north-america"
+  },
+  {
+    "name": "united-states-of-america",
+    "parent": "north-america"
+  },
+  {
+    "name": "argentina",
+    "parent": "south-america"
+  },
+  {
+    "name": "bolivia",
+    "parent": "south-america"
+  },
+  {
+    "name": "brazil",
+    "parent": "south-america"
+  },
+  {
+    "name": "chile",
+    "parent": "south-america"
+  },
+  {
+    "name": "colombia",
+    "parent": "south-america"
+  },
+  {
+    "name": "ecuador",
+    "parent": "south-america"
+  },
+  {
+    "name": "guyana",
+    "parent": "south-america"
+  },
+  {
+    "name": "paraguay",
+    "parent": "south-america"
+  },
+  {
+    "name": "peru",
+    "parent": "south-america"
+  },
+  {
+    "name": "suriname",
+    "parent": "south-america"
+  },
+  {
+    "name": "uruguay",
+    "parent": "south-america"
+  },
+  {
+    "name": "venezuela",
+    "parent": "south-america"
+  }
+]
