@@ -1,35 +1,35 @@
 [
   {
-    "name": "world",
+    "name": "earth",
     "parent": ""
   },
   {
     "name": "africa",
-    "parent": "world"
+    "parent": "earth"
   },
   {
     "name": "asia",
-    "parent": "world"
+    "parent": "earth"
   },
   {
     "name": "antarctica",
-    "parent": "world"
+    "parent": "earth"
   },
   {
     "name": "australia-and-oceania",
-    "parent": "world"
+    "parent": "earth"
   },
   {
     "name": "europe",
-    "parent": "world"
+    "parent": "earth"
   },
   {
     "name": "north-america",
-    "parent": "world"
+    "parent": "earth"
   },
   {
     "name": "south-america",
-    "parent": "world"
+    "parent": "earth"
   },
   {
     "name": "algeria",
