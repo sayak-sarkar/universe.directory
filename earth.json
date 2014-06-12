@@ -1036,6 +1036,14 @@
     "parent": "malta"
   },
   {
+    "name": "andhra pradesh",
+    "parent": "india"
+  },
+  {
+    "name": "guntur",
+    "parent": "andhra pradesh"
+  },
+  {
     "name": "nadur",
     "parent": "gozo"
   },
@@ -1046,14 +1054,6 @@
   {
     "name": "xaghra",
     "parent": "gozo"
-  },
-  {
-    "name": "andhra pradesh",
-    "parent": "india"
-  },
-  {
-    "name": "guntur",
-    "parent": "andhra pradesh"
   },
   {
     "name": "bapatla",
