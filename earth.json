@@ -1,7 +1,43 @@
 [
   {
+    "name": "mercury",
+    "parent": "solar system"
+  },
+  {
+    "name": "venus",
+    "parent": "solar system"
+  },
+  {
     "name": "earth",
-    "parent": ""
+    "parent": "solar system"
+  },
+  {
+    "name": "mars",
+    "parent": "solar system"
+  },
+  {
+    "name": "jupiter",
+    "parent": "solar system"
+  },
+  {
+    "name": "saturn",
+    "parent": "solar system"
+  },
+  {
+    "name": "neptune",
+    "parent": "solar system"
+  },
+  {
+    "name": "uranus",
+    "parent": "solar system"
+  },
+  {
+    "name": "pluto",
+    "parent": "solar system"
+  },
+  {
+    "name": "earth",
+    "parent": "solar system"
   },
   {
     "name": "africa",
