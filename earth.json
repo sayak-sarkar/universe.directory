@@ -1012,6 +1012,42 @@
     "parent": "algeria"
   },
   {
+    "name": "comino",
+    "parent": "malta"
+  },
+  {
+    "name": "filfla",
+    "parent": "malta"
+  },
+  {
+    "name": "gozo",
+    "parent": "malta"
+  },
+  {
+    "name": "marsascala",
+    "parent": "malta"
+  },
+  {
+    "name": "valletta",
+    "parent": "malta"
+  },
+  {
+    "name": "xaghjra",
+    "parent": "malta"
+  },
+  {
+    "name": "nadur",
+    "parent": "gozo"
+  },
+  {
+    "name": "sannat",
+    "parent": "gozo"
+  },
+  {
+    "name": "xaghra",
+    "parent": "gozo"
+  },
+  {
     "name": "andhra pradesh",
     "parent": "india"
   },
