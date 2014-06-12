@@ -1022,5 +1022,9 @@
   {
     "name": "bapatla",
     "parent": "guntur"
+  },
+  {
+    "name": "Kolkata",
+    "parent" : "West Bengal"
   }
 ]
