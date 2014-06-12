@@ -1010,5 +1010,17 @@
   {
     "name": "tlemcen",
     "parent": "algeria"
+  },
+  {
+    "name": "andhra pradesh",
+    "parent": "india"
+  },
+  {
+    "name": "guntur",
+    "parent": "andhra pradesh"
+  },
+  {
+    "name": "bapatla",
+    "parent": "guntur"
   }
 ]
