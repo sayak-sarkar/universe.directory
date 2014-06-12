@@ -232,15 +232,15 @@
     "parent": "africa"
   },
   {
-    "name": "Uganda",
+    "name": "uganda",
     "parent": "africa"
   },
   {
-    "name": "Zambia",
+    "name": "zambia",
     "parent": "africa"
   },
   {
-    "name": "Zimbabwe",
+    "name": "zimbabwe",
     "parent": "africa"
   },
   {
@@ -1016,8 +1016,408 @@
     "parent": "india"
   },
   {
+    "name": "karnataka",
+    "parent": "india"
+  },
+  {
+    "name": "kerala",
+    "parent": "india"
+  },
+  {
+    "name": "tamil nadu",
+    "parent": "india"
+  },
+  {
+    "name": "telangana",
+    "parent": "india"
+  },
+  {
+    "name": "anantapur",
+    "parent": "andhra pradesh"
+  },
+  {
+    "name": "chittoor",
+    "parent": "andhra pradesh"
+  },
+  {
+    "name": "cuddapah",
+    "parent": "andhra pradesh"
+  },
+  {
+    "name": "east godavari",
+    "parent": "andhra pradesh"
+  },
+  {
     "name": "guntur",
     "parent": "andhra pradesh"
+  },
+  {
+    "name": "krishna",
+    "parent": "andhra pradesh"
+  },
+  {
+    "name": "kurnool",
+    "parent": "andhra pradesh"
+  },
+  {
+    "name": "nellore",
+    "parent": "andhra pradesh"
+  },
+  {
+    "name": "prakasam",
+    "parent": "andhra pradesh"
+  },
+  {
+    "name": "srikakulam",
+    "parent": "andhra pradesh"
+  },
+  {
+    "name": "vishakhapatnam",
+    "parent": "andhra pradesh"
+  },
+  {
+    "name": "vizianagaram",
+    "parent": "andhra pradesh"
+  },
+  {
+    "name": "west godavari",
+    "parent": "andhra pradesh"
+  },
+  {
+    "name": "bagalkot",
+    "parent": "karnataka"
+  },
+  {
+    "name": "bangalore",
+    "parent": "karnataka"
+  },
+  {
+    "name": "belgaum",
+    "parent": "karnataka"
+  },
+  {
+    "name": "bellary",
+    "parent": "karnataka"
+  },
+  {
+    "name": "bidar",
+    "parent": "karnataka"
+  },
+  {
+    "name": "bijapur",
+    "parent": "karnataka"
+  },
+  {
+    "name": "chamarajanagar",
+    "parent": "karnataka"
+  },
+  {
+    "name": "chikballapur",
+    "parent": "karnataka"
+  },
+  {
+    "name": "chikmagalur",
+    "parent": "karnataka"
+  },
+  {
+    "name": "chitradurga",
+    "parent": "karnataka"
+  },
+  {
+    "name": "dakshina kannada",
+    "parent": "karnataka"
+  },
+  {
+    "name": "devanagere",
+    "parent": "karnataka"
+  },
+  {
+    "name": "dharwad",
+    "parent": "karnataka"
+  },
+  {
+    "name": "gadag",
+    "parent": "karnataka"
+  },
+  {
+    "name": "gulbarga",
+    "parent": "karnataka"
+  },
+  {
+    "name": "hassan",
+    "parent": "karnataka"
+  },
+  {
+    "name": "haveri",
+    "parent": "karnataka"
+  },
+  {
+    "name": "kodagu",
+    "parent": "karnataka"
+  },
+  {
+    "name": "kolar",
+    "parent": "karnataka"
+  },
+  {
+    "name": "koppal",
+    "parent": "karnataka"
+  },
+  {
+    "name": "mandya",
+    "parent": "karnataka"
+  },
+  {
+    "name": "mysore",
+    "parent": "karnataka"
+  },
+  {
+    "name": "raichur",
+    "parent": "karnataka"
+  },
+  {
+    "name": "ramanagara",
+    "parent": "karnataka"
+  },
+  {
+    "name": "shimoga",
+    "parent": "karnataka"
+  },
+  {
+    "name": "tumakuru",
+    "parent": "karnataka"
+  },
+  {
+    "name": "udupi",
+    "parent": "karnataka"
+  },
+  {
+    "name": "uttara kannada",
+    "parent": "karnataka"
+  },
+  {
+    "name": "yadgir",
+    "parent": "karnataka"
+  },
+  {
+    "name": "alappuzha",
+    "parent": "kerala"
+  },
+  {
+    "name": "ernakulam",
+    "parent": "kerala"
+  },
+  {
+    "name": "idukki",
+    "parent": "kerala"
+  },
+  {
+    "name": "kannur",
+    "parent": "kerala"
+  },
+  {
+    "name": "kasaragod",
+    "parent": "kerala"
+  },
+  {
+    "name": "kollam",
+    "parent": "kerala"
+  },
+  {
+    "name": "kottayam",
+    "parent": "kerala"
+  },
+  {
+    "name": "kozhikode",
+    "parent": "kerala"
+  },
+  {
+    "name": "malappuram",
+    "parent": "kerala"
+  },
+  {
+    "name": "palakkad",
+    "parent": "kerala"
+  },
+  {
+    "name": "pathanamthitta",
+    "parent": "kerala"
+  },
+  {
+    "name": "thiruvanathapuram",
+    "parent": "kerala"
+  },
+  {
+    "name": "thrissur",
+    "parent": "kerala"
+  },
+  {
+    "name": "wayanad",
+    "parent": "kerala"
+  },
+  {
+    "name": "ariyalur",
+    "parent": "tamil nadu"
+  },
+  {
+    "name": "chennai",
+    "parent": "tamil nadu"
+  },
+  {
+    "name": "coimbatore",
+    "parent": "tamil nadu"
+  },
+  {
+    "name": "cuddalore",
+    "parent": "tamil nadu"
+  },
+  {
+    "name": "dharmapuri",
+    "parent": "tamil nadu"
+  },
+  {
+    "name": "dindigul",
+    "parent": "tamil nadu"
+  },
+  {
+    "name": "erode",
+    "parent": "tamil nadu"
+  },
+  {
+    "name": "kanchipuram",
+    "parent": "tamil nadu"
+  },
+  {
+    "name": "kanniyakumari",
+    "parent": "tamil nadu"
+  },
+  {
+    "name": "karur",
+    "parent": "tamil nadu"
+  },
+  {
+    "name": "krishnagiri",
+    "parent": "tamil nadu"
+  },
+  {
+    "name": "madurai",
+    "parent": "tamil nadu"
+  },
+  {
+    "name": "nagapattinam",
+    "parent": "tamil nadu"
+  },
+  {
+    "name": "the nilgiris",
+    "parent": "tamil nadu"
+  },
+  {
+    "name": "perambalur",
+    "parent": "tamil nadu"
+  },
+  {
+    "name": "pudukkottai",
+    "parent": "tamil nadu"
+  },
+  {
+    "name": "ramanthapuram",
+    "parent": "tamil nadu"
+  },
+  {
+    "name": "salem",
+    "parent": "tamil nadu"
+  },
+  {
+    "name": "sivaganga",
+    "parent": "tamil nadu"
+  },
+  {
+    "name": "thanjavur",
+    "parent": "tamil nadu"
+  },
+  {
+    "name": "theni",
+    "parent": "tamil nadu"
+  },
+  {
+    "name": "thoothukudi",
+    "parent": "tamil nadu"
+  },
+  {
+    "name": "thiruvarur",
+    "parent": "tamil nadu"
+  },
+  {
+    "name": "thirunelveli",
+    "parent": "tamil nadu"
+  },
+  {
+    "name": "tiruchirapalli",
+    "parent": "tamil nadu"
+  },
+  {
+    "name": "thiruvallur",
+    "parent": "tamil nadu"
+  },
+  {
+    "name": "tiruppur",
+    "parent": "tamil nadu"
+  },
+  {
+    "name": "tiruvannamalai",
+    "parent": "tamil nadu"
+  },
+  {
+    "name": "vellore",
+    "parent": "tamil nadu"
+  },
+  {
+    "name": "villupuram",
+    "parent": "tamil nadu"
+  },
+  {
+    "name": "virudhunagar",
+    "parent": "tamil nadu"
+  },
+  {
+    "name": "adilabad",
+    "parent": "telangana"
+  },
+  {
+    "name": "hyderabad",
+    "parent": "telangana"
+  },
+  {
+    "name": "karimnagar",
+    "parent": "telangana"
+  },
+  {
+    "name": "khammam",
+    "parent": "telangana"
+  },
+  {
+    "name": "mahbubnagar",
+    "parent": "telangana"
+  },
+  {
+    "name": "medak",
+    "parent": "telangana"
+  },
+  {
+    "name": "nalgonda",
+    "parent": "telangana"
+  },
+  {
+    "name": "nizamabad",
+    "parent": "telangana"
+  },
+  {
+    "name": "rangareddy",
+    "parent": "telangana"
+  },
+  {
+    "name": "warangal",
+    "parent": "telangana"
   },
   {
     "name": "bapatla",
