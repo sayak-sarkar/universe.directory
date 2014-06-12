@@ -1030,5 +1030,9 @@
   {
     "name": "oyur",
     "parent": "kollam"
+  },
+  {
+    "name": "ernakulam",
+    "parent": "kerala"
   }
 ]
