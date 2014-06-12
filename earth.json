@@ -1016,6 +1016,22 @@
     "parent": "india"
   },
   {
+    "name": "karnataka",
+    "parent": "india"
+  },
+  {
+    "name": "kerala",
+    "parent": "india"
+  },
+  {
+    "name": "tamil nadu",
+    "parent": "india"
+  },
+  {
+    "name": "telangana",
+    "parent": "india"
+  },
+  {
     "name": "anantapur",
     "parent": "andhra pradesh"
   },
@@ -1034,10 +1050,6 @@
   {
     "name": "guntur",
     "parent": "andhra pradesh"
-  },
-  {
-    "name": "bapatla",
-    "parent": "guntur"
   },
   {
     "name": "krishna",
@@ -1070,54 +1082,6 @@
   {
     "name": "west godavari",
     "parent": "andhra pradesh"
-  },
-  {
-    "name": "telangana",
-    "parent": "india"
-  },
-  {
-    "name": "adilabad",
-    "parent": "telangana"
-  },
-  {
-    "name": "hyderabad",
-    "parent": "telangana"
-  },
-  {
-    "name": "karimnagar",
-    "parent": "telangana"
-  },
-  {
-    "name": "khammam",
-    "parent": "telangana"
-  },
-  {
-    "name": "mahbubnagar",
-    "parent": "telangana"
-  },
-  {
-    "name": "medak",
-    "parent": "telangana"
-  },
-  {
-    "name": "nalgonda",
-    "parent": "telangana"
-  },
-  {
-    "name": "nizamabad",
-    "parent": "telangana"
-  },
-  {
-    "name": "rangareddy",
-    "parent": "telangana"
-  },
-  {
-    "name": "warangal",
-    "parent": "telangana"
-  },
-  {
-    "name": "karnataka",
-    "parent": "india"
   },
   {
     "name": "bagalkot",
@@ -1236,10 +1200,6 @@
     "parent": "karnataka"
   },
   {
-    "name": "kerala",
-    "parent": "india"
-  },
-  {
     "name": "alappuzha",
     "parent": "kerala"
   },
@@ -1294,10 +1254,6 @@
   {
     "name": "wayanad",
     "parent": "kerala"
-  },
-  {
-    "name": "tamil nadu",
-    "parent": "india"
   },
   {
     "name": "ariyalur",
@@ -1422,5 +1378,49 @@
   {
     "name": "virudhunagar",
     "parent": "tamil nadu"
+  },
+  {
+    "name": "adilabad",
+    "parent": "telangana"
+  },
+  {
+    "name": "hyderabad",
+    "parent": "telangana"
+  },
+  {
+    "name": "karimnagar",
+    "parent": "telangana"
+  },
+  {
+    "name": "khammam",
+    "parent": "telangana"
+  },
+  {
+    "name": "mahbubnagar",
+    "parent": "telangana"
+  },
+  {
+    "name": "medak",
+    "parent": "telangana"
+  },
+  {
+    "name": "nalgonda",
+    "parent": "telangana"
+  },
+  {
+    "name": "nizamabad",
+    "parent": "telangana"
+  },
+  {
+    "name": "rangareddy",
+    "parent": "telangana"
+  },
+  {
+    "name": "warangal",
+    "parent": "telangana"
+  },
+  {
+    "name": "bapatla",
+    "parent": "guntur"
   }
 ]
