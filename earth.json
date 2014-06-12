@@ -16,7 +16,7 @@
     "parent": "earth"
   },
   {
-    "name": "australia-and-oceania",
+    "name": "australia and oceania",
     "parent": "earth"
   },
   {
@@ -24,11 +24,11 @@
     "parent": "earth"
   },
   {
-    "name": "north-america",
+    "name": "north america",
     "parent": "earth"
   },
   {
-    "name": "south-america",
+    "name": "south america",
     "parent": "earth"
   },
   {
@@ -48,7 +48,7 @@
     "parent": "africa"
   },
   {
-    "name": "burkina-faso",
+    "name": "burkina faso",
     "parent": "africa"
   },
   {
@@ -60,11 +60,11 @@
     "parent": "africa"
   },
   {
-    "name": "cape-verde",
+    "name": "cape verde",
     "parent": "africa"
   },
   {
-    "name": "central-african-republic",
+    "name": "central african republic",
     "parent": "africa"
   },
   {
@@ -76,11 +76,11 @@
     "parent": "africa"
   },
   {
-    "name": "democratic-republic-of-congo",
+    "name": "democratic republic of congo",
     "parent": "africa"
   },
   {
-    "name": "cote-d-ivoire",
+    "name": "cote d ivoire",
     "parent": "africa"
   },
   {
@@ -120,7 +120,7 @@
     "parent": "africa"
   },
   {
-    "name": "guinea-bissau",
+    "name": "guinea bissau",
     "parent": "africa"
   },
   {
@@ -184,7 +184,7 @@
     "parent": "africa"
   },
   {
-    "name": "sao-tome-&-principe",
+    "name": "sao tome & principe",
     "parent": "africa"
   },
   {
@@ -196,7 +196,7 @@
     "parent": "africa"
   },
   {
-    "name": "sierra-leone",
+    "name": "sierra leone",
     "parent": "africa"
   },
   {
@@ -204,11 +204,11 @@
     "parent": "africa"
   },
   {
-    "name": "south-africa",
+    "name": "south africa",
     "parent": "africa"
   },
   {
-    "name": "south-sudan",
+    "name": "south sudan",
     "parent": "africa"
   },
   {
@@ -272,7 +272,7 @@
     "parent": "asia"
   },
   {
-    "name": "east-timor",
+    "name": "east timor",
     "parent": "asia"
   },
   {
@@ -308,11 +308,11 @@
     "parent": "asia"
   },
   {
-    "name": "north-korea",
+    "name": "north korea",
     "parent": "asia"
   },
   {
-    "name": "south-korea",
+    "name": "south korea",
     "parent": "asia"
   },
   {
@@ -360,7 +360,7 @@
     "parent": "asia"
   },
   {
-    "name": "the-philippines",
+    "name": "the philippines",
     "parent": "asia"
   },
   {
@@ -372,7 +372,7 @@
     "parent": "asia"
   },
   {
-    "name": "saudi-arabia",
+    "name": "saudi arabia",
     "parent": "asia"
   },
   {
@@ -380,7 +380,7 @@
     "parent": "asia"
   },
   {
-    "name": "sri-lanka",
+    "name": "sri lanka",
     "parent": "asia"
   },
   {
@@ -408,7 +408,7 @@
     "parent": "asia"
   },
   {
-    "name": "united-arab-emirates",
+    "name": "united arab emirates",
     "parent": "asia"
   },
   {
@@ -425,59 +425,59 @@
   },
   {
     "name": "australia",
-    "parent": "australia-and-oceania"
+    "parent": "australia and oceania"
   },
   {
     "name": "fiji",
-    "parent": "australia-and-oceania"
+    "parent": "australia and oceania"
   },
   {
     "name": "kiribati",
-    "parent": "australia-and-oceania"
+    "parent": "australia and oceania"
   },
   {
-    "name": "marshall-islands",
-    "parent": "australia-and-oceania"
+    "name": "marshall islands",
+    "parent": "australia and oceania"
   },
   {
     "name": "micronesia",
-    "parent": "australia-and-oceania"
+    "parent": "australia and oceania"
   },
   {
     "name": "samoa",
-    "parent": "australia-and-oceania"
+    "parent": "australia and oceania"
   },
   {
-    "name": "solomon-islands",
-    "parent": "australia-and-oceania"
+    "name": "solomon islands",
+    "parent": "australia and oceania"
   },
   {
     "name": "nauru",
-    "parent": "australia-and-oceania"
+    "parent": "australia and oceania"
   },
   {
-    "name": "new-zealand",
-    "parent": "australia-and-oceania"
+    "name": "new zealand",
+    "parent": "australia and oceania"
   },
   {
     "name": "palau",
-    "parent": "australia-and-oceania"
+    "parent": "australia and oceania"
   },
   {
-    "name": "papua-new-guinea",
-    "parent": "australia-and-oceania"
+    "name": "papua new guinea",
+    "parent": "australia and oceania"
   },
   {
     "name": "tonga",
-    "parent": "australia-and-oceania"
+    "parent": "australia and oceania"
   },
   {
     "name": "tuvalu",
-    "parent": "australia-and-oceania"
+    "parent": "australia and oceania"
   },
   {
     "name": "vanuatu",
-    "parent": "australia-and-oceania"
+    "parent": "australia and oceania"
   },
   {
     "name": "albania",
@@ -508,7 +508,7 @@
     "parent": "europe"
   },
   {
-    "name": "bosnia-&-herzegovina",
+    "name": "bosnia & herzegovina",
     "parent": "europe"
   },
   {
@@ -524,7 +524,7 @@
     "parent": "europe"
   },
   {
-    "name": "czech-republic",
+    "name": "czech republic",
     "parent": "europe"
   },
   {
@@ -612,7 +612,7 @@
     "parent": "europe"
   },
   {
-    "name": "the-netherlands",
+    "name": "the netherlands",
     "parent": "europe"
   },
   {
@@ -636,7 +636,7 @@
     "parent": "europe"
   },
   {
-    "name": "san-marino",
+    "name": "san marino",
     "parent": "europe"
   },
   {
@@ -672,151 +672,343 @@
     "parent": "europe"
   },
   {
-    "name": "united-kingdom",
+    "name": "united kingdom",
     "parent": "europe"
   },
   {
-    "name": "vatican-city",
+    "name": "vatican city",
     "parent": "europe"
   },
   {
-    "name": "antigua-&-barbuda",
-    "parent": "north-america"
+    "name": "antigua & barbuda",
+    "parent": "north america"
   },
   {
     "name": "bahamas",
-    "parent": "north-america"
+    "parent": "north america"
   },
   {
     "name": "barbados",
-    "parent": "north-america"
+    "parent": "north america"
   },
   {
     "name": "belize",
-    "parent": "north-america"
+    "parent": "north america"
   },
   {
     "name": "canada",
-    "parent": "north-america"
+    "parent": "north america"
   },
   {
-    "name": "costa-rica",
-    "parent": "north-america"
+    "name": "costa rica",
+    "parent": "north america"
   },
   {
     "name": "cuba",
-    "parent": "north-america"
+    "parent": "north america"
   },
   {
     "name": "dominica",
-    "parent": "north-america"
+    "parent": "north america"
   },
   {
-    "name": "dominican-republic",
-    "parent": "north-america"
+    "name": "dominican republic",
+    "parent": "north america"
   },
   {
-    "name": "el-salvador",
-    "parent": "north-america"
+    "name": "el salvador",
+    "parent": "north america"
   },
   {
     "name": "grenada",
-    "parent": "north-america"
+    "parent": "north america"
   },
   {
     "name": "guatemala",
-    "parent": "north-america"
+    "parent": "north america"
   },
   {
     "name": "haiti",
-    "parent": "north-america"
+    "parent": "north america"
   },
   {
     "name": "honduras",
-    "parent": "north-america"
+    "parent": "north america"
   },
   {
     "name": "jamaica",
-    "parent": "north-america"
+    "parent": "north america"
   },
   {
     "name": "mexico",
-    "parent": "north-america"
+    "parent": "north america"
   },
   {
     "name": "nicaragua",
-    "parent": "north-america"
+    "parent": "north america"
   },
   {
     "name": "panama",
-    "parent": "north-america"
+    "parent": "north america"
   },
   {
-    "name": "st.-kitts-&-nevis ",
-    "parent": "north-america"
+    "name": "st. kitts & nevis ",
+    "parent": "north america"
   },
   {
-    "name": "st.-lucia",
-    "parent": "north-america"
+    "name": "st. lucia",
+    "parent": "north america"
   },
   {
-    "name": "st.-vincent-&-the-grenadines",
-    "parent": "north-america"
+    "name": "st. vincent & the grenadines",
+    "parent": "north america"
   },
   {
-    "name": "trinidad-&-tobago",
-    "parent": "north-america"
+    "name": "trinidad & tobago",
+    "parent": "north america"
   },
   {
-    "name": "united-states-of-america",
-    "parent": "north-america"
+    "name": "united states of america",
+    "parent": "north america"
   },
   {
     "name": "argentina",
-    "parent": "south-america"
+    "parent": "south america"
   },
   {
     "name": "bolivia",
-    "parent": "south-america"
+    "parent": "south america"
   },
   {
     "name": "brazil",
-    "parent": "south-america"
+    "parent": "south america"
   },
   {
     "name": "chile",
-    "parent": "south-america"
+    "parent": "south america"
   },
   {
     "name": "colombia",
-    "parent": "south-america"
+    "parent": "south america"
   },
   {
     "name": "ecuador",
-    "parent": "south-america"
+    "parent": "south america"
   },
   {
     "name": "guyana",
-    "parent": "south-america"
+    "parent": "south america"
   },
   {
     "name": "paraguay",
-    "parent": "south-america"
+    "parent": "south america"
   },
   {
     "name": "peru",
-    "parent": "south-america"
+    "parent": "south america"
   },
   {
     "name": "suriname",
-    "parent": "south-america"
+    "parent": "south america"
   },
   {
     "name": "uruguay",
-    "parent": "south-america"
+    "parent": "south america"
   },
   {
     "name": "venezuela",
-    "parent": "south-america"
+    "parent": "south america"
+  },
+  {
+    "name": "adrar",
+    "parent": "algeria"
+  },
+  {
+    "name": "aïn defla",
+    "parent": "algeria"
+  },
+  {
+    "name": "aïn témouchent",
+    "parent": "algeria"
+  },
+  {
+    "name": "algiers",
+    "parent": "algeria"
+  },
+  {
+    "name": "annaba",
+    "parent": "algeria"
+  },
+  {
+    "name": "batna",
+    "parent": "algeria"
+  },
+  {
+    "name": "béchar",
+    "parent": "algeria"
+  },
+  {
+    "name": "béjaïa",
+    "parent": "algeria"
+  },
+  {
+    "name": "biskra",
+    "parent": "algeria"
+  },
+  {
+    "name": "blida",
+    "parent": "algeria"
+  },
+  {
+    "name": "bordj bou arréridj",
+    "parent": "algeria"
+  },
+  {
+    "name": "bouira",
+    "parent": "algeria"
+  },
+  {
+    "name": "boumerdès",
+    "parent": "algeria"
+  },
+  {
+    "name": "chlef",
+    "parent": "algeria"
+  },
+  {
+    "name": "constantine",
+    "parent": "algeria"
+  },
+  {
+    "name": "djelfa",
+    "parent": "algeria"
+  },
+  {
+    "name": "el bayadh",
+    "parent": "algeria"
+  },
+  {
+    "name": "el oued",
+    "parent": "algeria"
+  },
+  {
+    "name": "el taref",
+    "parent": "algeria"
+  },
+  {
+    "name": "ghardaïa",
+    "parent": "algeria"
+  },
+  {
+    "name": "guelma",
+    "parent": "algeria"
+  },
+  {
+    "name": "illizi",
+    "parent": "algeria"
+  },
+  {
+    "name": "jijel",
+    "parent": "algeria"
+  },
+  {
+    "name": "khenchela",
+    "parent": "algeria"
+  },
+  {
+    "name": "laghouat",
+    "parent": "algeria"
+  },
+  {
+    "name": "m'sila",
+    "parent": "algeria"
+  },
+  {
+    "name": "mascara",
+    "parent": "algeria"
+  },
+  {
+    "name": "médéa",
+    "parent": "algeria"
+  },
+  {
+    "name": "mila",
+    "parent": "algeria"
+  },
+  {
+    "name": "mostaganem",
+    "parent": "algeria"
+  },
+  {
+    "name": "naama",
+    "parent": "algeria"
+  },
+  {
+    "name": "oran",
+    "parent": "algeria"
+  },
+  {
+    "name": "ouargla",
+    "parent": "algeria"
+  },
+  {
+    "name": "oum el-bouaghi",
+    "parent": "algeria"
+  },
+  {
+    "name": "relizane",
+    "parent": "algeria"
+  },
+  {
+    "name": "saïda",
+    "parent": "algeria"
+  },
+  {
+    "name": "sétif",
+    "parent": "algeria"
+  },
+  {
+    "name": "sidi bel abbes",
+    "parent": "algeria"
+  },
+  {
+    "name": "skikda",
+    "parent": "algeria"
+  },
+  {
+    "name": "souk ahras",
+    "parent": "algeria"
+  },
+  {
+    "name": "tamanghasset",
+    "parent": "algeria"
+  },
+  {
+    "name": "tébessa",
+    "parent": "algeria"
+  },
+  {
+    "name": "tiaret",
+    "parent": "algeria"
+  },
+  {
+    "name": "tindouf",
+    "parent": "algeria"
+  },
+  {
+    "name": "tipasa",
+    "parent": "algeria"
+  },
+  {
+    "name": "tissemsilt",
+    "parent": "algeria"
+  },
+  {
+    "name": "tizi ouzou",
+    "parent": "algeria"
+  },
+  {
+    "name": "tlemcen",
+    "parent": "algeria"
   }
 ]
