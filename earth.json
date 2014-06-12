@@ -1016,10 +1016,6 @@
     "parent": "india"
   },
   {
-    "name": "telangana",
-    "parent": "india"
-  },
-  {
     "name": "anantapur",
     "parent": "andhra pradesh"
   },
@@ -1038,6 +1034,10 @@
   {
     "name": "guntur",
     "parent": "andhra pradesh"
+  },
+  {
+    "name": "bapatla",
+    "parent": "guntur"
   },
   {
     "name": "krishna",
@@ -1072,8 +1072,8 @@
     "parent": "andhra pradesh"
   },
   {
-    "name": "bapatla",
-    "parent": "guntur"
+    "name": "telangana",
+    "parent": "india"
   },
   {
     "name": "adilabad",
