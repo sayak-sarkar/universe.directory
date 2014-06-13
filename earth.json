@@ -1572,6 +1572,70 @@
     "parent": "hassan"
   },
   {
+    "name": "byadgi",
+    "parent": "haveri"
+  },
+  {
+    "name": "hangal",
+    "parent": "haveri"
+  },
+  {
+    "name": "hirekerur",
+    "parent": "haveri"
+  },
+  {
+    "name": "ranibennur",
+    "parent": "haveri"
+  },
+  {
+    "name": "savanur",
+    "parent": "haveri"
+  },
+  {
+    "name": "shiggaon",
+    "parent": "haveri"
+  },
+  {
+    "name": "madikeri",
+    "parent": "kodagu"
+  },
+  {
+    "name": "somvarpet",
+    "parent": "kodagu"
+  },
+  {
+    "name": "virajpet",
+    "parent": "kodagu"
+  },
+  {
+    "name": "bangarapet",
+    "parent": "kolar"
+  },
+  {
+    "name": "malur",
+    "parent": "kolar"
+  },
+  {
+    "name": "mulbagal",
+    "parent": "kolar"
+  },
+  {
+    "name": "srinivaspur",
+    "parent": "kolar"
+  },
+  {
+    "name": "gangawati",
+    "parent": "koppal"
+  },
+  {
+    "name": "kushtagi",
+    "parent": "koppal"
+  },
+  {
+    "name": "yelbarga",
+    "parent": "koppal"
+  },
+  {
     "name": "kerala",
     "parent": "india"
   },
