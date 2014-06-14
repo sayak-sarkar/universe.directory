@@ -1032,6 +1032,10 @@
     "parent": "india"
   },
   {
+    "name": "west bengal",
+    "parent": "india"
+  },
+  {
     "name": "anantapur",
     "parent": "andhra pradesh"
   },
@@ -1420,11 +1424,11 @@
     "parent": "telangana"
   },
   {
-    "name": "bapatla",
-    "parent": "guntur"
-  },
-  {
     "name": "kolkata",
     "parent" : "west bengal"
+  },
+  {
+    "name": "bapatla",
+    "parent": "guntur"
   }
 ]
