@@ -1052,6 +1052,34 @@
     "parent": "india"
   },
   {
+    "name": "gujarat",
+    "parent": "india"
+  },
+  {
+    "name": "himachal pradesh",
+    "parent": "india"
+  },
+  {
+    "name": "jammu & kashmir",
+    "parent": "india"
+  },
+  {
+    "name": "madhya pradesh",
+    "parent": "india"
+  },
+  {
+    "name": "maharashtra",
+    "parent": "india"
+  },
+  {
+    "name": "punjab",
+    "parent": "india"
+  },
+  {
+    "name": "rajasthan",
+    "parent": "india"
+  },
+  {
     "name": "karnataka",
     "parent": "india"
   },
@@ -1065,6 +1093,10 @@
   },
   {
     "name": "telangana",
+    "parent": "india"
+  },
+  {
+    "name": "uttar pradesh",
     "parent": "india"
   },
   {
