@@ -1012,7 +1012,47 @@
     "parent": "algeria"
   },
   {
+    "name": "andaman and nicobar islands",
+    "parent": "india"
+  },
+  {
+    "name": "arunachal pradesh",
+    "parent": "india"
+  },
+  {
+    "name": "assam",
+    "parent": "india"
+  },
+  {
     "name": "andhra pradesh",
+    "parent": "india"
+  },
+  {
+    "name": "bihar",
+    "parent": "india"
+  },
+  {
+    "name": "chandigarh",
+    "parent": "india"
+  },
+  {
+    "name": "chhattisgarh",
+    "parent": "india"
+  },
+  {
+    "name": "dadra and nagar haveli",
+    "parent": "india"
+  },
+  {
+    "name": "daman and diu",
+    "parent": "india"
+  },
+  {
+    "name": "national capital territory of delhi",
+    "parent": "india"
+  },
+  {
+    "name": "goa",
     "parent": "india"
   },
   {
@@ -1020,27 +1060,19 @@
     "parent": "india"
   },
   {
+    "name": "haryana",
+    "parent": "india"
+  },
+  {
     "name": "himachal pradesh",
     "parent": "india"
   },
   {
-    "name": "jammu & kashmir",
+    "name": "jammu and kashmir",
     "parent": "india"
   },
   {
-    "name": "madhya pradesh",
-    "parent": "india"
-  },
-  {
-    "name": "maharashtra",
-    "parent": "india"
-  },
-  {
-    "name": "punjab",
-    "parent": "india"
-  },
-  {
-    "name": "rajasthan",
+    "name": "jharkhand",
     "parent": "india"
   },
   {
@@ -1052,6 +1084,54 @@
     "parent": "india"
   },
   {
+    "name": "lakshadweep",
+    "parent": "india"
+  },
+  {
+    "name": "madhya pradesh",
+    "parent": "india"
+  },
+  {
+    "name": "maharashtra",
+    "parent": "india"
+  },
+  {
+    "name": "manipur",
+    "parent": "india"
+  },
+  {
+    "name": "meghalaya",
+    "parent": "india"
+  },
+  {
+    "name": "mizoram",
+    "parent": "india"
+  },
+  {
+    "name": "nagaland",
+    "parent": "india"
+  },
+  {
+    "name": "orissa",
+    "parent": "india"
+  },
+  {
+    "name": "puducherry",
+    "parent": "india"
+  },
+  {
+    "name": "punjab",
+    "parent": "india"
+  },
+  {
+    "name": "rajasthan",
+    "parent": "india"
+  },
+  {
+    "name": "sikkim",
+    "parent": "india"
+  },
+  {
     "name": "tamil nadu",
     "parent": "india"
   },
@@ -1060,7 +1140,15 @@
     "parent": "india"
   },
   {
+    "name": "tripura",
+    "parent": "india"
+  },
+  {
     "name": "uttar pradesh",
+    "parent": "india"
+  },
+  {
+    "name": "uttarakhand",
     "parent": "india"
   },
   {
