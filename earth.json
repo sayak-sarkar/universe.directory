@@ -1012,6 +1012,42 @@
     "parent": "algeria"
   },
   {
+    "name": "chittagong",
+    "parent": "bangladesh"
+  },
+  {
+    "name": "rajshahi",
+    "parent": "bangladesh"
+  },
+  {
+    "name": "khulna",
+    "parent": "bangladesh"
+  },
+  {
+    "name": "barisal",
+    "parent": "bangladesh"
+  },
+  {
+    "name": "sylhet",
+    "parent": "bangladesh"
+  },
+  {
+    "name": "comilla",
+    "parent": "bangladesh"
+  },
+  {
+    "name": "rangpur",
+    "parent": "bangladesh"
+  },
+  {
+    "name": "narayanganj",
+    "parent": "bangladesh"
+  },
+  {
+    "name": "gazipur",
+    "parent": "bangladesh"
+  },
+  {
     "name": "andaman and nicobar islands",
     "parent": "india"
   },
