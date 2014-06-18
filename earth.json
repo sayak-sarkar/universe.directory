@@ -1586,5 +1586,17 @@
   {
     "name": "bapatla",
     "parent": "guntur"
+  },
+  {
+    "name": "kollam",
+    "parent": "kerala"
+  },
+  {
+    "name": "oyur",
+    "parent": "kollam"
+  },
+  {
+    "name": "ernakulam",
+    "parent": "kerala"
   }
 ]
