@@ -1012,6 +1012,78 @@
     "parent": "algeria"
   },
   {
+    "name": "bengo",
+    "parent": "angola"
+  },
+  {
+    "name": "benguela",
+    "parent": "angola"
+  },
+  {
+    "name": "bié",
+    "parent": "angola"
+  },
+  {
+    "name": "cabinda",
+    "parent": "angola"
+  },
+  {
+    "name": "cuando cubango",
+    "parent": "angola"
+  },
+  {
+    "name": "cuanza norte",
+    "parent": "angola"
+  },
+  {
+    "name": "cuanza sul",
+    "parent": "angola"
+  },
+  {
+    "name": "cunene",
+    "parent": "angola"
+  },
+  {
+    "name": "huambo",
+    "parent": "angola"
+  },
+  {
+    "name": "huíla",
+    "parent": "angola"
+  },
+  {
+    "name": "luanda",
+    "parent": "angola"
+  },
+  {
+    "name": "lunda norte",
+    "parent": "angola"
+  },
+  {
+    "name": "lunda sul",
+    "parent": "angola"
+  },
+  {
+    "name": "malanje",
+    "parent": "angola"
+  },
+  {
+    "name": "moxico",
+    "parent": "angola"
+  },
+  {
+    "name": "namibe",
+    "parent": "angola"
+  },
+  {
+    "name": "uíge",
+    "parent": "angola"
+  },
+  {
+    "name": "zaire",
+    "parent": "angola"
+  },
+  {
     "name": "chittagong",
     "parent": "bangladesh"
   },
