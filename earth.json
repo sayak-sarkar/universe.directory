@@ -1012,6 +1012,174 @@
     "parent": "algeria"
   },
   {
+    "name": "abomey",
+    "parent": "benin"
+  },
+  {
+    "name": "abomey-calavi",
+    "parent": "benin"
+  },
+  {
+    "name": "allada",
+    "parent": "benin"
+  },
+  {
+    "name": "aplahoué",
+    "parent": "benin"
+  },
+  {
+    "name": "athiémé",
+    "parent": "benin"
+  },
+  {
+    "name": "banikoara",
+    "parent": "benin"
+  },
+  {
+    "name": "bassila",
+    "parent": "benin"
+  },
+  {
+    "name": "bembèrèkè",
+    "parent": "benin"
+  },
+  {
+    "name": "bétérou",
+    "parent": "benin"
+  },
+  {
+    "name": "bohicon",
+    "parent": "benin"
+  },
+  {
+    "name": "bori",
+    "parent": "benin"
+  },
+  {
+    "name": "boukoumbé",
+    "parent": "benin"
+  },
+  {
+    "name": "comé",
+    "parent": "benin"
+  },
+  {
+    "name": "cotonou",
+    "parent": "benin"
+  },
+  {
+    "name": "cové",
+    "parent": "benin"
+  },
+  {
+    "name": "dassa-zoumé",
+    "parent": "benin"
+  },
+  {
+    "name": "djougou",
+    "parent": "benin"
+  },
+  {
+    "name": "dogbo-tota",
+    "parent": "benin"
+  },
+  {
+    "name": "ganvie",
+    "parent": "benin"
+  },
+  {
+    "name": "godomey",
+    "parent": "benin"
+  },
+  {
+    "name": "grand popo",
+    "parent": "benin"
+  },
+  {
+    "name": "kandi",
+    "parent": "benin"
+  },
+  {
+    "name": "kérou",
+    "parent": "benin"
+  },
+  {
+    "name": "kétou",
+    "parent": "benin"
+  },
+  {
+    "name": "kouandé",
+    "parent": "benin"
+  },
+  {
+    "name": "lokossa",
+    "parent": "benin"
+  },
+  {
+    "name": "malanville",
+    "parent": "benin"
+  },
+  {
+    "name": "natitingou",
+    "parent": "benin"
+  },
+  {
+    "name": "ndali",
+    "parent": "benin"
+  },
+  {
+    "name": "nikki",
+    "parent": "benin"
+  },
+  {
+    "name": "ouidah",
+    "parent": "benin"
+  },
+  {
+    "name": "parakou",
+    "parent": "benin"
+  },
+  {
+    "name": "péhonko",
+    "parent": "benin"
+  },
+  {
+    "name": "pobé",
+    "parent": "benin"
+  },
+  {
+    "name": "porga",
+    "parent": "benin"
+  },
+  {
+    "name": "porto novo",
+    "parent": "benin"
+  },
+  {
+    "name": "sakété",
+    "parent": "benin"
+  },
+  {
+    "name": "savalou",
+    "parent": "benin"
+  },
+  {
+    "name": "savé",
+    "parent": "benin"
+  },
+  {
+    "name": "ségbana",
+    "parent": "benin"
+  },
+  {
+    "name": "tanguiéta",
+    "parent": "benin"
+  },
+  {
+    "name": "tchaourou",
+    "parent": "benin"
+  },
+  {
     "name": "bengo",
     "parent": "angola"
   },
