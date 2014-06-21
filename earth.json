@@ -1830,5 +1830,405 @@
   {
     "name": "bapatla",
     "parent": "guntur"
+  },
+  {
+    "name": "badami",
+    "parent": "bagalkot"
+  },
+  {
+    "name": "bilgi",
+    "parent": "bagalkot"
+  },
+  {
+    "name": "hungund",
+    "parent": "bagalkot"
+  },
+  {
+    "name": "jamkhandi",
+    "parent": "bagalkot"
+  },
+  {
+    "name": "mudhol",
+    "parent": "bagalkot"
+  },
+  {
+    "name": "anekal",
+    "parent": "bangalore"
+  },
+  {
+    "name": "devanahalli",
+    "parent": "bangalore"
+  },
+  {
+    "name": "doddaballapura",
+    "parent": "bangalore"
+  },
+  {
+    "name": "hoskote",
+    "parent": "bangalore"
+  },
+  {
+    "name": "nelamangala",
+    "parent": "bangalore"
+  },
+  {
+    "name": "athni",
+    "parent": "belgaum"
+  },
+  {
+    "name": "bailahongal",
+    "parent": "belgaum"
+  },
+  {
+    "name": "chikodi",
+    "parent": "belgaum"
+  },
+  {
+    "name": "gokak",
+    "parent": "belgaum"
+  },
+  {
+    "name": "hukkeri",
+    "parent": "belgaum"
+  },
+  {
+    "name": "khanapur",
+    "parent": "belgaum"
+  },
+  {
+    "name": "kittur",
+    "parent": "belgaum"
+  },
+  {
+    "name": "raybag",
+    "parent": "belgaum"
+  },
+  {
+    "name": "ramdurg",
+    "parent": "belgaum"
+  },
+  {
+    "name": "saundatti",
+    "parent": "belgaum"
+  },
+  {
+    "name": "hospet",
+    "parent": "bellary"
+  },
+  {
+    "name": "kampli",
+    "parent": "bellary"
+  },
+  {
+    "name": "hoovina hadagalli",
+    "parent": "bellary"
+  },
+  {
+    "name": "kudligi",
+    "parent": "bellary"
+  },
+  {
+    "name": "sanduru",
+    "parent": "bellary"
+  },
+  {
+    "name": "siruguppa",
+    "parent": "bellary"
+  },
+  {
+    "name": "aurad",
+    "parent": "bidar"
+  },
+  {
+    "name": "basavakalyan",
+    "parent": "bidar"
+  },
+  {
+    "name": "bhalki",
+    "parent": "bidar"
+  },
+  {
+    "name": "homnabad",
+    "parent": "bidar"
+  },
+  {
+    "name": "basavana bagevadi",
+    "parent": "bijapur"
+  },
+  {
+    "name": "indi",
+    "parent": "bijapur"
+  },
+  {
+    "name": "muddebihal",
+    "parent": "bijapur"
+  },
+  {
+    "name": "sindgi",
+    "parent": "bijapur"
+  },
+  {
+    "name": "gundlupet",
+    "parent": "chamarajanagar"
+  },
+  {
+    "name": "kollegal",
+    "parent": "chamarajanagar"
+  },
+  {
+    "name": "yelandur",
+    "parent": "chamarajanagar"
+  },
+  {
+    "name": "bagepalli",
+    "parent": "chikballapur"
+  },
+  {
+    "name": "chintamani",
+    "parent": "chikballapur"
+  },
+  {
+    "name": "gauribidanur",
+    "parent": "chikballapur"
+  },
+  {
+    "name": "gudibanda",
+    "parent": "chikballapur"
+  },
+  {
+    "name": "sidlaghatta",
+    "parent": "chikballapur"
+  },
+  {
+    "name": "kadur",
+    "parent": "chikmagalur"
+  },
+  {
+    "name": "koppa",
+    "parent": "chikmagalur"
+  },
+  {
+    "name": "mudigere",
+    "parent": "chikmagalur"
+  },
+  {
+    "name": "narasimharajapura",
+    "parent": "chikmagalur"
+  },
+  {
+    "name": "sringeri",
+    "parent": "chikmagalur"
+  },
+  {
+    "name": "tarikere",
+    "parent": "chikmagalur"
+  },
+  {
+    "name": "challakere",
+    "parent": "chitradurga"
+  },
+  {
+    "name": "hiriyur",
+    "parent": "chitradurga"
+  },
+  {
+    "name": "holalkere",
+    "parent": "chitradurga"
+  },
+  {
+    "name": "hosadurga",
+    "parent": "chitradurga"
+  },
+  {
+    "name": "molakalmuru",
+    "parent": "chitradurga"
+  },
+  {
+    "name": "bantwal",
+    "parent": "dakshina kannada"
+  },
+  {
+    "name": "beltangadi",
+    "parent": "dakshina kannada"
+  },
+  {
+    "name": "mangalore",
+    "parent": "dakshina kannada"
+  },
+  {
+    "name": "puttur",
+    "parent": "dakshina kannada"
+  },
+  {
+    "name": "sulya",
+    "parent": "dakshina kannada"
+  },
+  {
+    "name": "channagiri",
+    "parent": "devanagere"
+  },
+  {
+    "name": "harihar",
+    "parent": "devanagere"
+  },
+  {
+    "name": "harpanahalli",
+    "parent": "devanagere"
+  },
+  {
+    "name": "honnali",
+    "parent": "devanagere"
+  },
+  {
+    "name": "jagalur",
+    "parent": "devanagere"
+  },
+  {
+    "name": "hubli",
+    "parent": "dharwad"
+  },
+  {
+    "name": "kalghatgi",
+    "parent": "dharwad"
+  },
+  {
+    "name": "kundgol",
+    "parent": "dharwad"
+  },
+  {
+    "name": "navalgund",
+    "parent": "dharwad"
+  },
+  {
+    "name": "mundargi",
+    "parent": "gadag"
+  },
+  {
+    "name": "nargund",
+    "parent": "gadag"
+  },
+  {
+    "name": "ron",
+    "parent": "gadag"
+  },
+  {
+    "name": "shirhatti",
+    "parent": "gadag"
+  },
+  {
+    "name": "afzalpur",
+    "parent": "gulbarga"
+  },
+  {
+    "name": "aland",
+    "parent": "gulbarga"
+  },
+  {
+    "name": "chincholi",
+    "parent": "gulbarga"
+  },
+  {
+    "name": "chitapur",
+    "parent": "gulbarga"
+  },
+  {
+    "name": "jevargi",
+    "parent": "gulbarga"
+  },
+  {
+    "name": "sedam",
+    "parent": "gulbarga"
+  },
+  {
+    "name": "alur",
+    "parent": "hassan"
+  },
+  {
+    "name": "arkalgud",
+    "parent": "hassan"
+  },
+  {
+    "name": "arsikere",
+    "parent": "hassan"
+  },
+  {
+    "name": "belur",
+    "parent": "hassan"
+  },
+  {
+    "name": "channarayapattana",
+    "parent": "hassan"
+  },
+  {
+    "name": "holenarsipur",
+    "parent": "hassan"
+  },
+  {
+    "name": "sakleshpur",
+    "parent": "hassan"
+  },
+  {
+    "name": "byadgi",
+    "parent": "haveri"
+  },
+  {
+    "name": "hangal",
+    "parent": "haveri"
+  },
+  {
+    "name": "hirekerur",
+    "parent": "haveri"
+  },
+  {
+    "name": "ranibennur",
+    "parent": "haveri"
+  },
+  {
+    "name": "savanur",
+    "parent": "haveri"
+  },
+  {
+    "name": "shiggaon",
+    "parent": "haveri"
+  },
+  {
+    "name": "madikeri",
+    "parent": "kodagu"
+  },
+  {
+    "name": "somvarpet",
+    "parent": "kodagu"
+  },
+  {
+    "name": "virajpet",
+    "parent": "kodagu"
+  },
+  {
+    "name": "bangarapet",
+    "parent": "kolar"
+  },
+  {
+    "name": "malur",
+    "parent": "kolar"
+  },
+  {
+    "name": "mulbagal",
+    "parent": "kolar"
+  },
+  {
+    "name": "srinivaspur",
+    "parent": "kolar"
+  },
+  {
+    "name": "gangawati",
+    "parent": "koppal"
+  },
+  {
+    "name": "kushtagi",
+    "parent": "koppal"
+  },
+  {
+    "name": "yelbarga",
+    "parent": "koppal"
   }
 ]
