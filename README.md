@@ -13,3 +13,8 @@ The initial directory structure consists of a single JSON file containing a heir
   "parent": "Parent Location name"
 } 
 ```
+
+Data Usage Plan
+---------------
+
+The data stored in the json can be used to create location data based interactive graphical content using D3 or any other intuitive data visualization libraries. It may also be used in various other types of applications to provide heirachical location data.
