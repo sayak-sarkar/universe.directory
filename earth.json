@@ -2231,7 +2231,32 @@
     "name": "yelbarga",
     "parent": "koppal"
   },
-  {    "name": "comino",
+  {
+    "name": "alipore",
+    "parent": "kolkata"
+  },
+  {
+    "name": "behala",
+    "parent": "kolkata"
+  },
+  {
+    "name": "joka",
+    "parent": "kolkata"
+  },
+  {
+    "name": "kalighat",
+    "parent": "kolkata"
+  },
+  {
+    "name": "kasba",
+    "parent": "kolkata"
+  },
+  {
+    "name": "new alipore",
+    "parent": "kolkata"
+  },
+  { 
+    "name": "comino",
     "parent": "malta"
   },
   {
