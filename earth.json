@@ -2255,7 +2255,19 @@
     "name": "new alipore",
     "parent": "kolkata"
   },
-  { 
+  {
+    "name": "rajabajar",
+    "parent": "kolkata"
+  },
+  {
+    "name": "sakher bajar",
+    "parent": "kolkata"
+  },
+  {
+    "name": "thakurpukur",
+    "parent": "kolkata"
+  },
+  {
     "name": "comino",
     "parent": "malta"
   },
@@ -2290,5 +2302,6 @@
   {
     "name": "xaghra",
     "parent": "gozo"
+
   }
 ]
