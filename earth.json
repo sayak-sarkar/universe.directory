@@ -2236,7 +2236,15 @@
     "parent": "kolkata"
   },
   {
+    "name": "ballygunje",
+    "parent": "kolkata"
+  },
+  {
     "name": "behala",
+    "parent": "kolkata"
+  },
+  {
+    "name": "beliaghata",
     "parent": "kolkata"
   },
   {
@@ -2260,6 +2268,14 @@
     "parent": "kolkata"
   },
   {
+    "name": "salt lake",
+    "parent": "kolkata"
+  },
+  {
+    "name": "sealdah",
+    "parent": "kolkata"
+  },
+  {
     "name": "sakher bajar",
     "parent": "kolkata"
   },
@@ -2267,6 +2283,10 @@
     "name": "thakurpukur",
     "parent": "kolkata"
   },
+  {
+    "name": "tollygunje",
+    "parent": "kolkata"
+  }
   {
     "name": "comino",
     "parent": "malta"
@@ -2302,6 +2322,5 @@
   {
     "name": "xaghra",
     "parent": "gozo"
-
   }
 ]
