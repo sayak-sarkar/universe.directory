@@ -2240,11 +2240,19 @@
     "parent": "kolkata"
   },
   {
+    "name": "batanagar",
+    "parent": "kolkata"
+  },
+  {
     "name": "behala",
     "parent": "kolkata"
   },
   {
     "name": "beliaghata",
+    "parent": "kolkata"
+  },
+  {
+    "name": "budge budge",
     "parent": "kolkata"
   },
   {
@@ -2277,6 +2285,10 @@
   },
   {
     "name": "sakher bajar",
+    "parent": "kolkata"
+  },
+  {
+    "name": "taratala",
     "parent": "kolkata"
   },
   {
