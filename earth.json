@@ -2244,6 +2244,10 @@
     "parent": "kolkata"
   },
   {
+    "name": "binoy badol dinesh bag",
+    "parent": "kolkata"
+  },
+  {
     "name": "behala",
     "parent": "kolkata"
   },
@@ -2253,6 +2257,10 @@
   },
   {
     "name": "budge budge",
+    "parent": "kolkata"
+  },
+  {
+    "name": "esplanade",
     "parent": "kolkata"
   },
   {
@@ -2268,7 +2276,15 @@
     "parent": "kolkata"
   },
   {
+    "name": "lake gardens",
+    "parent": "kolkata"
+  },
+  {
     "name": "new alipore",
+    "parent": "kolkata"
+  },
+  {
+    "name": "park street",
     "parent": "kolkata"
   },
   {
@@ -2292,11 +2308,19 @@
     "parent": "kolkata"
   },
   {
+    "name": "tangra",
+    "parent": "kolkata"
+  },
+  {
     "name": "thakurpukur",
     "parent": "kolkata"
   },
   {
     "name": "tollygunje",
+    "parent": "kolkata"
+  },
+  {
+    "name": "topsia",
     "parent": "kolkata"
   }
   {
