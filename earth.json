@@ -2276,6 +2276,14 @@
     "parent": "kolkata"
   },
   {
+    "name": "kankurgachi",
+    "parent": "kolkata"
+  },
+  {
+    "name": "karunamoyi",
+    "parent": "kolkata"
+  },
+  {
     "name": "lake gardens",
     "parent": "kolkata"
   },
@@ -2285,6 +2293,14 @@
   },
   {
     "name": "park street",
+    "parent": "kolkata"
+  },
+  {
+    "name": "rabindra sadan",
+    "parent": "kolkata"
+  },
+  {
+    "name": "rabindra sarobar",
     "parent": "kolkata"
   },
   {
