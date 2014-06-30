@@ -2256,7 +2256,15 @@
     "parent": "kolkata"
   },
   {
+    "name": "belgachia",
+    "parent": "kolkata"
+  },
+  {
     "name": "budge budge",
+    "parent": "kolkata"
+  },
+  {
+    "name": "dum dum",
     "parent": "kolkata"
   },
   {
