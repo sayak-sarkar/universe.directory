@@ -2252,6 +2252,10 @@
     "parent": "kolkata"
   },
   {
+    "name": "behala chowrasta",
+    "parent": "kolkata"
+  },
+  {
     "name": "beliaghata",
     "parent": "kolkata"
   },
@@ -2273,6 +2277,10 @@
   },
   {
     "name": "esplanade",
+    "parent": "kolkata"
+  },
+  {
+    "name": "hatibagan",
     "parent": "kolkata"
   },
   {
@@ -2304,6 +2312,14 @@
     "parent": "kolkata"
   },
   {
+    "name": "new market",
+    "parent": "kolkata"
+  },
+  {
+    "name": "nimtala",
+    "parent": "kolkata"
+  },
+  {
     "name": "park street",
     "parent": "kolkata"
   },
@@ -2332,11 +2348,23 @@
     "parent": "kolkata"
   },
   {
-    "name": "taratala",
+    "name": "simultala",
+    "parent": "kolkata"
+  },
+  {
+    "name": "shyam bajar",
     "parent": "kolkata"
   },
   {
     "name": "tangra",
+    "parent": "kolkata"
+  },
+  {
+    "name": "taratala",
+    "parent": "kolkata"
+  },
+  {
+    "name": "taltala",
     "parent": "kolkata"
   },
   {
