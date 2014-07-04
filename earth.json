@@ -2304,7 +2304,15 @@
     "parent": "kolkata"
   },
   {
+    "name": "kidderpore",
+    "parent": "kolkata"
+  },
+  {
     "name": "lake gardens",
+    "parent": "kolkata"
+  },
+  {
+    "name": "mominpur",
     "parent": "kolkata"
   },
   {
@@ -2333,6 +2341,14 @@
   },
   {
     "name": "rajabajar",
+    "parent": "kolkata"
+  },
+  {
+    "name": "rajdanga",
+    "parent": "kolkata"
+  },
+  {
+    "name": "rashbehari",
     "parent": "kolkata"
   },
   {
