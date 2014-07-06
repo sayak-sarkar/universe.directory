@@ -2268,6 +2268,10 @@
     "parent": "kolkata"
   },
   {
+    "name": "deshopriyo park",
+    "parent": "kolkata"
+  },
+  {
     "name": "dharmatala",
     "parent": "kolkata"
   },
@@ -2329,6 +2333,10 @@
   },
   {
     "name": "park street",
+    "parent": "kolkata"
+  },
+  {
+    "name": "park circus",
     "parent": "kolkata"
   },
   {
@@ -2398,7 +2406,11 @@
   {
     "name": "topsia",
     "parent": "kolkata"
-  }
+  },
+  {
+    "name": "triangular park",
+    "parent": "kolkata"
+  },
   {
     "name": "comino",
     "parent": "malta"
