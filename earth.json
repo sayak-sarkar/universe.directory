@@ -2272,6 +2272,10 @@
     "parent": "kolkata"
   },
   {
+    "name": "dalhousie",
+    "parent": "kolkata"
+  },
+  {
     "name": "deshopriyo park",
     "parent": "kolkata"
   },
@@ -2376,11 +2380,11 @@
     "parent": "kolkata"
   },
   {
-    "name": "sealdah",
+    "name": "sakher bajar",
     "parent": "kolkata"
   },
   {
-    "name": "sakher bajar",
+    "name": "sealdah",
     "parent": "kolkata"
   },
   {
