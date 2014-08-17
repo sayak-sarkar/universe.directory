@@ -2464,11 +2464,23 @@
     "parent": "kolkata"
   },
   {
+    "name": "birgu",
+    "parent": "malta"
+  },
+  {
+    "name": "bormla",
+    "parent": "malta"
+  },
+  {
     "name": "comino",
     "parent": "malta"
   },
   {
     "name": "filfla",
+    "parent": "malta"
+  },
+  {
+    "name": "isla",
     "parent": "malta"
   },
   {
