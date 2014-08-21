@@ -2464,23 +2464,15 @@
     "parent": "kolkata"
   },
   {
-    "name": "birgu",
-    "parent": "malta"
-  },
-  {
-    "name": "bormla",
-    "parent": "malta"
-  },
-  {
     "name": "comino",
     "parent": "malta"
   },
   {
-    "name": "filfla",
+    "name": "cospicua",
     "parent": "malta"
-  },
+  }
   {
-    "name": "isla",
+    "name": "filfla",
     "parent": "malta"
   },
   {
@@ -2492,7 +2484,15 @@
     "parent": "malta"
   },
   {
+    "name": "senglea",
+    "parent": "malta"
+  },
+  {
     "name": "valletta",
+    "parent": "malta"
+  },
+  {
+    "name": "victoriosa",
     "parent": "malta"
   },
   {
