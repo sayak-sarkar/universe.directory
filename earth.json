@@ -1288,6 +1288,10 @@
     "parent": "bangladesh"
   },
   {
+    "name": "paris",
+    "parent": "france"
+  },
+  {
     "name": "andaman and nicobar islands",
     "parent": "india"
   },
