@@ -2508,6 +2508,10 @@
     "parent": "malta"
   },
   {
+    "name": "lisbon",
+    "parent": "spain"
+  },
+  {
     "name": "nadur",
     "parent": "gozo"
   },
