@@ -2468,6 +2468,10 @@
     "parent": "kolkata"
   },
   {
+    "name": "rome",
+    "parent": "italy"
+  },
+  {
     "name": "comino",
     "parent": "malta"
   },
@@ -2502,6 +2506,10 @@
   {
     "name": "xaghjra",
     "parent": "malta"
+  },
+  {
+    "name": "lisbon",
+    "parent": "spain"
   },
   {
     "name": "nadur",
